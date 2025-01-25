@@ -1,0 +1,10 @@
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\bin\Debug\BilgisayarliGörme.exe.config
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\bin\Debug\BilgisayarliGörme.exe
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\bin\Debug\BilgisayarliGörme.pdb
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.Form1.resources
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.Properties.Resources.resources
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.exe
+C:\Users\Emre\source\repos\BilgisayarliGörme\BilgisayarliGörme\obj\Debug\BilgisayarliGörme.pdb
